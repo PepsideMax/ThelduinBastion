@@ -2,4 +2,4 @@ Antipope was a normal made again follower of the church of Gond a creationist be
 
 Antipope is the keeper of the [[Basic Facilities/Sanctuary|Sanctuary]].
 
-![[assets_task_01jx37szq3e3kvsrd9v9zqaz04_1749234384_img_1.webp]]
+![[Antipope Felix MK II.webp]]
