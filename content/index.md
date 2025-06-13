@@ -1,9 +1,11 @@
 ---
 title: Welcome to Quartz
 ---
-commands to build wiki 
-npx quartz sync
-npx quartz build --serve
-This is a blank Quartz installation. test pushing different text 
+This is a wiki made by Pepsidemax and his dm for private use only.
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+#### commands to build wiki 
+>npx quartz sync
+>npx quartz build --serve
+ 
+
+Linkt to Quartz [documentation](https://quartz.jzhao.xyz) for how to diy.
