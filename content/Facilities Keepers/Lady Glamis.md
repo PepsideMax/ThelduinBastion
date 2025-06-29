@@ -2,6 +2,6 @@ Lady Glamis is a [arc-Hag](arch-hag-xmm) who is lost her phylactery to Ayre when
 
 Lady Glamis is de keeper of the [[Garden]]
 
-![[Lady Glamis.jpg]]
+![[Lady Glamis.webp]]
 
 

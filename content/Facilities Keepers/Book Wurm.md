@@ -3,4 +3,4 @@ A [Book Wurm](Book-Wurm) is part of the great written plane a space where all th
 Wurm's can't speak they communicate only using the written word.
 
 Book worm is the [[Library]] keeper.
-![[Book Wurm.jpeg]]
+![[Book Wurm.webp]]

@@ -2,6 +2,6 @@ This a [[Dogmole]] who loves to hang out giving big golden retriever vibes wanti
 
 [[Unseen Pup]] is the keeper of the [[Mines]]
 
-![[Unseen Pup.jpeg|358x537]]
+![[Unseen Pup.webp|358x537]]
 
 

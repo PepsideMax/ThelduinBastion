@@ -2,5 +2,5 @@ Barrlejack is a mimic who got adopted by a lumberjack after guarding a wizards t
 
 Barrlejack is the keeper of the [[Sawmill]].
 
-![[BarrleJack the chopper.jpeg|397x596]]
+![[BarrleJack the chopper.webp|397x596]]
 
