@@ -9,7 +9,6 @@
 #### To Do 
 * [[Gaminghall]]
 * [[Greenhouse]]
-* [[Laboratory]] (concept art [[Conantokin Chavicine.webp]])
 * [[Sacristy]] 
 * [[Stable]]
 * [[Trophy Room]]

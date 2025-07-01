@@ -20,7 +20,7 @@ Special facilities can be constructed with gold and crafting materials. There is
 | ----------------------- | --------- | ------------------------------------------------------------------------------- | ----------------------- |
 | [[Arcane Study]]        | 300       | 30 Wood, 30 candles                                                             | 1                       |
 | [[Kitchen]]             | 250       | 5 metal bars, 10 stone, a cookbook                                              | 1                       |
-| [[Warforged enforcers]] | 0         | 6 metal bars, 3 gems worth 25gp each, three uses of the rune of artificial life | 2                       |
+| [[Warforged Enforcers]] | 0         | 6 metal bars, 3 gems worth 25gp each, three uses of the rune of artificial life | 2                       |
 | [[Garden]]              | 200       | 20 Wood, a hand full seeds                                                      | 2                       |
 | [[Library]]             | 400       | 40 Wood, 15 books                                                               | 1                       |
 | [[Sanctuary]]           | 300       | 15 Stone, Statuette of a god                                                    | 1                       |
