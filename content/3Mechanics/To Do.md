@@ -11,7 +11,6 @@
 * [[Greenhouse]]
 * [[Laboratory]] (concept art [[Conantokin Chavicine.webp]])
 * [[Sacristy]] 
-* [[Scriptorium]] (concept art [[Wurmigami.webp]])
 * [[Stable]]
-* [[Teleportation Circle]]
 * [[Trophy Room]]
+

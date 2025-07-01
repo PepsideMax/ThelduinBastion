@@ -7,3 +7,4 @@ replaces all picked fruits each bastion turn, and it can’t be transplanted wit
 **Harvest: Healing Herbs** You commission Ayre to harvest healing herbs used to create a greater potion of healing. The work takes 7 days and costs no money.
 **Harvest: Poison** You commission Ayre to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: Assassin’s
 Blood, Malice, Pale Tincture, or Truth Serum. See “Poison’ in chapter 3 for each poison’s effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money. [Rework]
+

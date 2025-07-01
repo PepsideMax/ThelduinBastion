@@ -3,3 +3,4 @@ The Sawmill is located near the forest on the main island. It has axes and saws 
 Harvest: wood You commission the Sawmill to start woodcutting. At the end of the bastion turn, Ayre will deposit all wood in the storage of the sawmill. If storage is full, then the wood will be lost 24h after the bastion turn ends. The sawmill can also produce some wild meat.
 
 The sawmill keeper is [[Barrlejack the chopper]]
+![[Sawmill.webp|420x236]]

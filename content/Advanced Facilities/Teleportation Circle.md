@@ -1,0 +1,5 @@
+Inscribed on the floor of this room is a permanent teleportation circle created by the Teleportation Circle spell.
+![[Hallinskidi.webp|510x340]]
+**Empower: Tethered Astral portal** When you issue the empower order to this facility it allows [[Hallinskidi]] to open a portal that teleport anyone to a different place in the astral realm. This teleport can be used to hunt down rare beast only found in the astral realm, or to take out a hostile outpost to reduce aggression to the Bastion. Any loot found in the astral realm can be brought over to the material plane. 
+Each creature that uses the portal is is tethered by a magical string. The portal closes after 24h, pulling any tethered creatures back to the bastion. [[Hallinskidi]] can use a ritual to close the portal from anywhere in the astral realm.
+

@@ -4,5 +4,5 @@ The name Peony Misplacer comes from a joke the herbalist made when the beast mis
 
 Peony is the keeper of the [[Herb Orchard]]
 
-![[Peony Misplacer.jpeg]]
+![[Peony Misplacer.webp]]
 

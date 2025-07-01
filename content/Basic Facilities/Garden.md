@@ -1,4 +1,5 @@
 A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table. While in your Bastion, you can instruct the facility’s hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.
+![[Garden.webp|468x263]]
 
 **Harvest:** Garden Growth When you issue the Harvest order to this facility, you commission Ayre to collect items from the Garden as noted in the Garden Types table. The work takes 7 days and costs no money.
 
