@@ -9,7 +9,6 @@
 #### To Do 
 * [[Gaminghall]]
 * [[Greenhouse]]
-* [[Sacristy]] 
 * [[Stable]]
 * [[Trophy Room]]
 
