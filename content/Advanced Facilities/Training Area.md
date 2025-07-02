@@ -1,5 +1,7 @@
 A Training Area might be an open courtyard, a gymnasium, a music or dance hall, or a cleverly built gauntlet of traps and hazards. It might contain inanimate targets (for weapon practice), padded mats, and other equipment. [[Sensei Snipper]] is an expert trainer, knowing ancient techniques in different topics.
+
 ![[Sensei Snipper.webp|414x276]]
+
 **Empower: Training** When you issue the Empower order to this facility, [[Sensei Snipper]] conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on what topic Ayre is teaching, as noted in the topics table. The benefit lasts for 7 days. If a character follow the training 5 times, it counts as a permanent bonus. If you receive a
 new effect from a topic, any lessons learned from that same topic is forgotten and permanent bonus is lost.
 

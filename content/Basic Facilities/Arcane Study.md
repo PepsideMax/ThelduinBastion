@@ -1,5 +1,5 @@
 An Arcane Study is a place of quiet research that houses [[Skōlēx]] and contains one or more desks and bookshelves.
-![[content/Images/Skōlēx.webp|410x273]]
+![[Skōlēx.webp|410x273]]
 Arcane Study Charm After spending a Long Rest in your Bastion, you gain a magical Charm (see “Supernatural Gifts” in chapter 3) that lasts for 7 days or until you use it. The Charm allows you to cast Identify without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it. The Arcane study can only give its charm once per bastion turn.
 
 Craft Options. When you issue the Craft order to this facility, choose one of the following options:

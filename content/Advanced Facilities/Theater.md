@@ -11,3 +11,4 @@ Empowering this facility again can repreform a production that is already rehear
 
 **Enlarging the Facility** You can enlarge your theater by spending 2000 GP. If you do so, the theater die becomes a 1D8. Enlarging it even further by spending 3000 GP grants a D10 theater die.
 
+![[Wendy.webp|471x314]]

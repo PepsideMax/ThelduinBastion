@@ -1,4 +1,5 @@
 A Greenhouse is an enclosure where rare plants and fungi are nurtured in a controlled climate.
+
 ![[Ruderalis.webp|475x317]]
 **Fruit of Restoration** One plant in your Greenhouse has three magical fruits growing on it. Any creature that eats one of these fruits gains the benefit of a Lesser Restoration spell. Fruits that aren’t eaten within 24 hours of being picked lose their magic. The plant
 replaces all picked fruits each bastion turn, and it can’t be transplanted without killing it.

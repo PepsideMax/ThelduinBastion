@@ -1,5 +1,7 @@
 A Sacristy serves as a preparation and storage room for the sacred items and religious vestments.
+
 ![[Antipope Felix MK.III.webp|487x325]]
+
 **Craft Options** When you issue the Craft order to this facility, choose one of the following options:
 **Craft: Holy Water** You commission [[Antipope Felix MK.III]] to craft a flask of Holy Water. The work takes 7 days and costs no money. You can spend GP during the creation process
 to increase the potency of the Holy Water. For every 100 GP you spend, up to a maximum of 500 GP, the damage dealt by the Holy Water increases by 1d8.

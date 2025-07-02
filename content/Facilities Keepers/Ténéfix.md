@@ -4,6 +4,6 @@ Tenefix sees no value in other gems so is willing to collect gems for you as lon
 
 The keeper of the [[Mineral Rush]]
 
-![[public/Images/Ténéfix.webp]]
+![[Ténéfix.webp]]
 
 

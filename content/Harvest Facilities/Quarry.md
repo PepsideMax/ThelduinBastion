@@ -1,6 +1,5 @@
 The quarry is located on the rocky island to the south west. It has pickaxes and cranes to extract stones from the island. It also has storage for 100 stone blocks.
 
-Harvest: Stone You commission the Quarry to start mining. At the end of the bastion turn, Ayre will deposit all stone in the storage of the quarry. If no storage is present, then the stone will be lost 24h after the bastion turn ends.
+Harvest: Stone You commission the Quarry to start mining. At the end of the bastion turn, [[Pebbles]] will deposit all stone in the storage of the quarry. If no storage is present, then the stone will be lost 24h after the bastion turn ends.
 
-The keeper is a stone golem named [[Pebbles]]
-![[content/Images/Pebbles.webp|341x227]]
+![[Pebbles.webp|341x227]]
