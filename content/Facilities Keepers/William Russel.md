@@ -1,0 +1,3 @@
+Once you make a agreement withe [[The Doghouse]] they are happy to finally get there foot in the door on expanding there casino business to the different planes. After the negotiations with the Feywild fell through they got in to contact with Ayre through [[Joe the Trader]]. Offering to send [[William Russel]] a blackjack expert to run the [[Gaminghall]] also known as the first doghouse in the astral plane.
+
+![[William Russel.webp]]

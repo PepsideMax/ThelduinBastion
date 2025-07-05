@@ -1,3 +1,3 @@
-Morris comes from a long line of [Rum Gremlin](Gremlin-Rum) Croupiers who have a wide network of dealers at there disposal. Getting even the most greedy of dragonborn to loosen there wallets making every evening a true risk at the [[Gaminghall]].
+Morris comes from a long line of [Rum Gremlin](Gremlin-Rum) who have natural instincts that make them the ultimate barmen. This was also noticed by [[The Doghouse]] who have a great nose fot business making him the perfect candidate to be manager in the new expansion of the [[Gaminghall]] where they thought a [[Pub]] would be a perfect addition to lure the astral costumers.
 
 ![[Morris Szyslak.webp]]

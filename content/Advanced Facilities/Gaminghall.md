@@ -1,6 +1,8 @@
-A Gaming Hall offers recreational activities like chess and games of darts, cards, or dice.
-![[Gaming Hall.webp|436x291]]
-**Trade:** Gambling Hall When you issue the Trade order to this facility, [[Morris Szyslak]] turns the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll 1d100 and consult the following table to determine the house’s winnings.
+A Gaming Hall also known als [[The Doghouse]] offers recreational activities like chess and games of darts, cards, or dice.
+
+![[The doghouse.webp|462x308]]
+
+**Trade:** Gambling Hall When you issue the Trade order to this facility, the dogs turns the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll 1d100 and consult the following table to determine the house’s winnings.
 
 | 1d100  | Winnings    |
 | ------ | ----------- |

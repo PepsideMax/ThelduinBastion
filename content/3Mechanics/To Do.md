@@ -1,13 +1,10 @@
 ## Basic Facilities 
 
 #### To Do 
-- [[Smithy]]
-- [[Kitchen]]
+- [[Kitchen WIP]]
 
 ## Advanced Facilities
 
 #### To Do 
 * [[Gaminghall]]
-* [[Stable]]
-* [[Trophy Room]]
 

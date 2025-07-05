@@ -1,6 +1,6 @@
 A Scriptorium contains desks and writing supplies.
 
-![[Scriptorium.png|499x333]]
+![[Scriptorium.webp|499x333]]
 
 **Craft Options** When you issue the Craft order to this facility, choose one of the following options:
 **Craft: Book Replica** You commission [[The Folded Ferret]] to make a copy of a nonmagical Book. Doing so requires a blank book. The work takes 7 days.
