@@ -1,10 +1,5 @@
-## Basic Facilities 
+## complex facilities
 
-#### To Do 
-- [[Kitchen WIP]]
 
-## Advanced Facilities
-
-#### To Do 
-* [[Gaminghall]]
+## Sophisticated facilities
 

@@ -2,5 +2,5 @@ Eustace is a old [gremlin](Gremlins) who got bored of his [gremlin](Gremlins) wa
 
 Eustace is the keeper of the [[Farm]]
 
-![[public/Images/Eustace.webp]]
+![[Eustace.webp]]
 
