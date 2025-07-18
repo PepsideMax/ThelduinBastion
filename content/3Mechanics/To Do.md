@@ -1,6 +1,0 @@
-
-## complex facilities
-
-
-## Sophisticated facilities
-

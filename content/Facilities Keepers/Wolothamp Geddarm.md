@@ -1,2 +1,0 @@
-Wolothamp better known as Wolo was sent to the astral plane after a heated argument with his friend Alminster once here he got the inspiration for a new book titled Wolo's guide to the astral plane. To get the best information on creatures of the astral plane he is willing to research for you als long as you let him look and manage al your trophy's form the [[Trophy Room]].
-![[Volothamp Geddarm.webp]]

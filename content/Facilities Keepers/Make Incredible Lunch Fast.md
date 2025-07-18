@@ -1,2 +1,0 @@
-The inventor Paul Weitz made all kinds of incredible machines for improving his day to day bachelor cooking. Discover his latest and greatest invention the [[Make Incredible Lunch Fast]] (working title)! A revolutionary cooking machine will keep you satiated and satisfied day and night. leaving no mouth unfilled and no meal unprepared for you to indulge yourself withe minimal effort and maximum reward. The model you receive does not yet have the "advanced features" but will be able to run and maintain the [[Kitchen WIP]] in you bastion.
-
