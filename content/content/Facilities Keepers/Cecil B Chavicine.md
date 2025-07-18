@@ -1,7 +1,0 @@
----
-{"publish":true,"created":"2025-07-18T18:47:56.576+02:00","modified":"2025-07-18T17:54:55.870+02:00","cssclasses":""}
----
-
-A brilliant yet eccentric yordle scientist, Professor [[content/Facilities Keepers/Cecil B Chavicine]] was lauded as one of the most innovative minds and esteemed inventors [Piltover](https://universe.leagueoflegends.com/en_US/region/piltover/) has ever seen. Relentless in his work to the point of neurotic obsession, he is fascinated by mysteries that have confounded his contemporaries for decades, and thrives on answering the universe’s most impenetrable questions. Though his theories often appear opaque and esoteric, [[content/Facilities Keepers/Cecil B Chavicine\|Chavicine]] believes knowledge should be shared, and is devoted to teaching all who desire it. Once the ruling class started noticing the potential power of his Noxus Project the rulers started pressuring him. Once the potential of the project started scaring even him he decided to flee to the astral plane before bringing the research to completion. In the astral plane he eventually encountered Ayre, she offered to let him stay in the bastion and this is where is stays now in the [[content/Advanced Facilities/Laboratory]].
-
-![[public/Images/Chavicine.webp]]
