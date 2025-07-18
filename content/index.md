@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The Thelduin Bastion Wiki
 ---
 This is a wiki made by Pepsidemax and his dm for private use only.
 

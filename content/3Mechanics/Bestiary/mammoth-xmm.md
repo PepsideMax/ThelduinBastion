@@ -1,18 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+tags: []
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mammoth
+  - Mammoth
 ---
-# [Mammoth](3-Mechanics\CLI\bestiary\beast/mammoth-xmm.md)
+# [[mammoth-xmm|Mammoth]]
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals

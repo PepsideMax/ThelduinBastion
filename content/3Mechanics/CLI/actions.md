@@ -23,7 +23,7 @@ You can either equip or unequip one weapon when you make an attack as part of th
 
 If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.
 
-See also: [Two-Weapon Fighting](/3-Mechanics/CLI/actions.md#Two-Weapon%20Fighting)
+See also: [[#Two-Weapon Fighting]]
 
 ## Dash
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -39,7 +39,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack) for the rest of the current turn.
+If you take the Disengage action, your movement doesn't provoke [[#Opportunity Attacks]] for the rest of the current turn.
 
 ## Dodge
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -48,7 +48,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) if you can see the attacker, and you make Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
 
-You lose these benefits if you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or if your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
+You lose these benefits if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
 
 ## Don or Doff a Shield
 _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -69,7 +69,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A Grappled creature can use its action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+A Grappled creature can use its action to make a Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check against the grapple's escape DC, ending the [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [[conditions#Incapacitated|Incapacitated]] condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Help
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -91,9 +91,9 @@ _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check while you're [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) or behind [Three-Quarters Cover or Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[skills#Stealth|Stealth]]) check while you're [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) or behind [Three-Quarters Cover or Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-On a successful check, you have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+On a successful check, you have the [[conditions#Invisible|Invisible]] condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([[skills#Perception|Perception]]) check.
 
 You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
@@ -125,13 +125,13 @@ If you urge the monster to do something that it is hesitant to do, you must make
 
 **Influence Checks**
 
-| Ability Check | Interaction |
-|---------------|-------------|
-| Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) | Deceiving a monster that understands you |
-| Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) | Intimidating a monster |
-| Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) | Amusing a monster |
-| Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) | Persuading a monster that understands you |
-| Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) | Gently coaxing a Beast or Monstrosity |
+| Ability Check                                        | Interaction                               |
+| ---------------------------------------------------- | ----------------------------------------- |
+| Charisma ([[skills#Deception\|Deception]])           | Deceiving a monster that understands you  |
+| Charisma ([[skills#Intimidation\|Intimidation]])     | Intimidating a monster                    |
+| Charisma ([[skills#Performance\|Performance]])       | Amusing a monster                         |
+| Charisma ([[skills#Persuasion\|Persuasion]])         | Persuading a monster that understands you |
+| Wisdom ([[skills#Animal Handling\|Animal Handling]]) | Gently coaxing a Beast or Monstrosity     |
 ^influence-checks
 
 ## Magic
@@ -141,7 +141,7 @@ _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems 
 
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) while you do so. If your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken, the spell fails, but you don't expend a spell slot.
+If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [[conditions#Concentration|Concentration]] while you do so. If your [[conditions#Concentration|Concentration]] is broken, the spell fails, but you don't expend a spell slot.
 
 ## Opportunity Attack
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -161,7 +161,7 @@ First, you decide what perceivable circumstance will trigger your [Reaction](/3-
 
 When the trigger occurs, you can either take your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) right after the trigger finishes or ignore the trigger.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](/3-Mechanics/CLI/conditions.md#Concentration), which you can maintain up to the start of your next turn. If your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken, the spell dissipates without taking effect.
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[conditions#Concentration|Concentration]], which you can maintain up to the start of your next turn. If your [[conditions#Concentration|Concentration]] is broken, the spell dissipates without taking effect.
 
 ## Search
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -172,12 +172,12 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 **Search**
 
-| Skill | Thing to Detect |
-|-------|-----------------|
-| [Insight](/3-Mechanics/CLI/skills.md#Insight) | Creature's state of mind |
-| [Medicine](/3-Mechanics/CLI/skills.md#Medicine) | Creature's ailment or cause of death |
-| [Perception](/3-Mechanics/CLI/skills.md#Perception) | Concealed creature or object |
-| [Survival](/3-Mechanics/CLI/skills.md#Survival) | Tracks or food |
+| Skill                             | Thing to Detect                      |
+| --------------------------------- | ------------------------------------ |
+| [[skills#Insight\|Insight]]       | Creature's state of mind             |
+| [[skills#Medicine\|Medicine]]     | Creature's ailment or cause of death |
+| [[skills#Perception\|Perception]] | Concealed creature or object         |
+| [[skills#Survival\|Survival]]     | Tracks or food                       |
 ^search
 
 ## Study

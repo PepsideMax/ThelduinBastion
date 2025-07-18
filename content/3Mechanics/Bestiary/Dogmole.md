@@ -1,5 +1,6 @@
 ---
 statblock: inline
+tags: []
 statblock-link: "#^statblock"
 ---
 

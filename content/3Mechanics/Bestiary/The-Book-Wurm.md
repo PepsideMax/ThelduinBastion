@@ -1,7 +1,13 @@
 ---
+obsidianUIMode: preview
+cssclasses:
+  - json5e-monster
 statblock: inline
 statblock-link: "#^statblock"
+aliases:
+  - The Book Wurm
 ---
+# [[The-Book-Wurm|The Book Wurm]]
 This peculiar critter is the smallest. yet most cunning
 representative Of the highly venomous wurm genus. With
 its remarkable ability to perfectly imitate a sheet of paper,
@@ -26,7 +32,7 @@ Mark. A Poison Mark can be removed by protection from poison spell or similar ma
 ```statblock
 layout: Basic 5e Layout
 image: 3-Mechanics/Bestiary/img/book-wurm.webp
-name: Book Wurm
+name: The Book Wurm
 size: Tiny
 type: monstrosity
 subtype: 

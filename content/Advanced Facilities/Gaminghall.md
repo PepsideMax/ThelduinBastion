@@ -2,7 +2,7 @@ A Gaming Hall also known als [[The Doghouse]] offers recreational activities lik
 
 ![[The doghouse.webp|462x308]]
 
-**Trade:** Gambling Hall When you issue the Trade order to this facility, the dogs turns the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll 1d100 and consult the following table to determine the house’s winnings.
+**Trade:** Gambling Hall When you issue the Trade order to this facility, the [[William Russel]] turns the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll 1d100 and consult the following table to determine the house’s winnings.
 
 | 1d100  | Winnings    |
 | ------ | ----------- |

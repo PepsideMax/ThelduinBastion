@@ -19,11 +19,12 @@ Special facilities can be constructed with gold and crafting materials. There is
 | Basic facilities        | Gold (gp) | Recources                                                                       | Time in Bastion turn(s) |
 | ----------------------- | --------- | ------------------------------------------------------------------------------- | ----------------------- |
 | [[Arcane Study]]        | 300       | 30 Wood, 30 candles                                                             | 1                       |
-| [[Kitchen WIP]]             | 250       | 5 metal bars, 10 stone, a cookbook                                              | 1                       |
+| [[Kitchen WIP]]         | 250       | 5 metal bars, 10 stone, a cookbook                                              | 1                       |
 | [[Warforged Enforcers]] | 0         | 6 metal bars, 3 gems worth 25gp each, three uses of the rune of artificial life | 2                       |
 | [[Garden]]              | 200       | 20 Wood, a hand full seeds                                                      | 2                       |
 | [[Library]]             | 400       | 40 Wood, 15 books                                                               | 1                       |
 | [[Sanctuary]]           | 300       | 15 Stone, Statuette of a god                                                    | 1                       |
+| [[Smithy]]              | WiP       | 9.999 Stone, 0,5 metal bars, Smith's tools                                      | 1                       |
 | [[Storehouse]]          | 500       | 30 Stone, 30 wood                                                               | 1                       |
 | [[Workshop]]            | 300       | 10 Stone, 10 wood, 5 metal, tinker’s tools                                      | 1                       |
 

@@ -15,7 +15,7 @@ While you have the Blinded condition, you experience the following effects.
 
 **Can't See.** You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
 ## Charmed
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -35,7 +35,7 @@ Some spells and other effects require Concentration to remain active, as specifi
 
 **Damage.** If you take damage, you must succeed on a Constitution [saving throw](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-**Incapacitated or Dead.** Your Concentration ends if you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or you die.
+**Incapacitated or Dead.** Your Concentration ends if you have the [[conditions#Incapacitated|Incapacitated]] condition or you die.
 
 ## Deafened
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -84,7 +84,7 @@ While you have the Incapacitated condition, you experience the following effects
 
 **Inactive.** You can't take any [action](/3-Mechanics/CLI/variant-rules/action-xphb.md), [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), or [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md).
 
-**No Concentration.** Your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken.
+**No Concentration.** Your [[conditions#Concentration|Concentration]] is broken.
 
 **Speechless.** You can't speak.
 
@@ -99,20 +99,20 @@ While you have the Invisible condition, you experience the following effects.
 
 **Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md), and your attack rolls have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md). If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md), and your attack rolls have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md). If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Paralyzed condition, you experience the following effects.
 
-**Incapacitated.** You have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 **Speed 0.** Your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md).
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 **Automatic Critical Hits.** Any attack roll that hits you is a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md) if the attacker is within 5 feet of you.
 
@@ -123,17 +123,17 @@ While you have the Petrified condition, you experience the following effects.
 
 **Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
 
-**Incapacitated.** You have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 **Speed 0.** Your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md).
 
 **Resist Damage.** You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage.
 
-**Poison Immunity.** You have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition.
+**Poison Immunity.** You have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [[conditions#Poisoned|Poisoned]] condition.
 
 ## Poisoned
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -158,7 +158,7 @@ While you have the Restrained condition, you experience the following effects.
 
 **Speed 0.** Your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
 **Saving Throws Affected.** You have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md).
 
@@ -167,7 +167,7 @@ _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems 
 
 While you have the Stunned condition, you experience the following effects.
 
-**Incapacitated.** You have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [[#Incapacitated]] condition.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md).
 
@@ -183,11 +183,11 @@ _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems 
 
 While you have the Unconscious condition, you experience the following effects.
 
-**Inert.** You have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) and [Prone](/3-Mechanics/CLI/conditions.md#Prone) conditions, and you drop whatever you're holding. When this condition ends, you remain [Prone](/3-Mechanics/CLI/conditions.md#Prone).
+**Inert.** You have the [[#Incapacitated]] and [[#Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[#Prone]].
 
 **Speed 0.** Your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
+**Attacks Affected.** [[actions#Attack|Attack]] rolls against you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md).
 

@@ -4,9 +4,10 @@ statblock-link: "#^statblock"
 ---
 
 
+![[public/3-Mechanics/Bestiary/img/Knowledge-Consumers.webp|381x377]]
 ```statblock
 layout: Basic 5e Layout
-image: 3-Mechanics/Bestiary/img/Knowledge Consumers.webp
+image: 3-Mechanics/Bestiary/img/Knowledge-Consumers.webp
 name: Knowledge Consumers
 size: Medium
 type: Beast
