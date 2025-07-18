@@ -1,0 +1,3 @@
+A gnome food expert who loves to explain food to non experts and helps people in need withe [[content/Basic Facilities/Kitchen WIP]] emergencies. He loves a very thematic approach mostly working with a step based explanation. After helping prominent cooks all across Thelduin one of the shefs named Serhan Grimore got so offended that he put a bounty on Thyrenius's head. After fleeing from bounty hunters for a decade he fled to the astral pane in a laste desperate attempt to evade capture. Here he met Ayre and explained the situation she allowed him to stay even offering to help the heros withe their cooking skills while staying in the [[content/Basic Facilities/Kitchen WIP]].
+
+![[content/Images/Petuiy.webp]]

@@ -1,0 +1,3 @@
+[[content/Facilities Keepers/Ruderalis]] is a treant who was raised in the comfort of a [[content/Advanced Facilities/Greenhouse]]. Getting used to the controlled environment managed by [[content/Facilities Keepers/Lady Glamis]]. After al these years of the good life he wouldn't give it up for anything so now he just stays in the [[content/Advanced Facilities/Greenhouse]] and provides the needed and requested services to his manager [[content/Facilities Keepers/Lady Glamis\|Lady G.]]. 
+
+![[content/Images/Ruderalis.webp]]
