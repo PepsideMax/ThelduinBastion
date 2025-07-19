@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.627+02:00","modified":"2025-07-18T17:52:31.970+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:42:02.119+02:00","modified":"2025-07-18T17:52:31.970+02:00","cssclasses":""}
 ---
 
 A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one Riding Horse or Camel and two Ponies or Mules; see the Player’s Handbook or the Monster Manual for these creatures’ stat blocks. The facility is big enough to house three

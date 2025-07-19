@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.719+02:00","modified":"2025-07-18T17:52:37.311+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:43:06.476+02:00","modified":"2025-07-18T17:52:37.311+02:00","cssclasses":""}
 ---
 
 The Theater contains a stage, a backstage area where props and sets are kept, and a seating area for a small audience.

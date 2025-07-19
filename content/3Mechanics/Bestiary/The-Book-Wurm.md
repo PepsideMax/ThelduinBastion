@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Book Wurm","created":"2025-07-18T18:56:33.496+02:00","modified":"2025-07-18T17:53:38.191+02:00","cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"The Book Wurm","created":"2025-06-13T17:11:38.931+02:00","modified":"2025-07-18T17:53:38.191+02:00","cssclasses":"json5e-monster"}
 ---
 
 # [[3Mechanics/Bestiary/The-Book-Wurm\|The Book Wurm]]

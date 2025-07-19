@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Psurlon","created":"2025-07-18T18:56:33.532+02:00","modified":"2025-07-18T17:53:34.915+02:00","cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Psurlon","created":"2025-06-13T17:11:39.884+02:00","modified":"2025-07-18T17:53:34.915+02:00","cssclasses":"json5e-monster"}
 ---
 
 # [[3Mechanics/Bestiary/Psurlon]]

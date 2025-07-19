@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.484+02:00","modified":"2025-07-18T17:56:36.443+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:15.885+02:00","modified":"2025-07-18T17:56:36.443+02:00","cssclasses":""}
 ---
 
 The mines are build in the mountains on the main island. It has pickaxes, minecart system and a small forge for basic metal processing.

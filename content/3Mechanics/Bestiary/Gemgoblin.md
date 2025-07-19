@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.554+02:00","modified":"2025-07-18T17:53:16.190+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:11:39.422+02:00","modified":"2025-07-18T17:53:16.190+02:00","cssclasses":""}
 ---
 
 # [[3Mechanics/Bestiary/Gemgoblin]]

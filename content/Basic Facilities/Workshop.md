@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.919+02:00","modified":"2025-07-18T17:54:35.480+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:12.223+02:00","modified":"2025-07-18T17:54:35.480+02:00","cssclasses":""}
 ---
 
 This Workshop is a creative space where useful items can be crafted. The Workshop comes equipped with six different kinds of Artisan’s Tools, chosen from the following list:

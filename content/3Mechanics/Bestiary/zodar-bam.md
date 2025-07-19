@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Zodar","created":"2025-07-18T18:56:33.508+02:00","modified":"2025-07-18T17:53:42.612+02:00","cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Zodar","created":"2025-06-13T17:11:40.134+02:00","modified":"2025-07-18T17:53:42.612+02:00","cssclasses":"json5e-monster"}
 ---
 
 # [[3Mechanics/Bestiary/zodar-bam\|Zodar]]

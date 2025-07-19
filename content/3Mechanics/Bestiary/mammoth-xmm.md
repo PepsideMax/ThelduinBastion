@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Mammoth","created":"2025-07-18T18:56:33.542+02:00","modified":"2025-07-18T17:53:31.408+02:00","cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Mammoth","created":"2025-06-13T17:11:39.743+02:00","modified":"2025-07-18T17:53:31.408+02:00","cssclasses":"json5e-monster"}
 ---
 
 # [[3Mechanics/Bestiary/mammoth-xmm\|Mammoth]]

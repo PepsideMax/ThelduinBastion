@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.474+02:00","modified":"2025-07-18T17:56:46.935+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:16.226+02:00","modified":"2025-07-18T17:56:46.935+02:00","cssclasses":""}
 ---
 
 The Sawmill is located near the forest on the main island. It has axes and saws to harvest lumber from the woods. It also has storage for 100 wooden planks.

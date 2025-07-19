@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.731+02:00","modified":"2025-07-18T17:52:40.157+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:43:25.730+02:00","modified":"2025-07-18T17:52:40.157+02:00","cssclasses":""}
 ---
 
 A Training Area might be an open courtyard, a gymnasium, a music or dance hall, or a cleverly built gauntlet of traps and hazards. It might contain inanimate targets (for weapon practice), padded mats, and other equipment. [[Facilities Keepers/Sensei Snipper]] is an expert trainer, knowing ancient techniques in different topics.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.907+02:00","modified":"2025-07-18T17:54:26.807+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.814+02:00","modified":"2025-07-18T17:54:26.807+02:00","cssclasses":""}
 ---
 
 This Smithy contains a forge, an anvil, and other tools needed to craft weapons, armor, and other equipment.

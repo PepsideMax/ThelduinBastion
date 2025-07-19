@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.895+02:00","modified":"2025-07-18T17:54:32.495+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.972+02:00","modified":"2025-07-18T17:54:32.495+02:00","cssclasses":""}
 ---
 
 Create three warforged enforcers (warforcers), created by ancient elven magic. The warforcers will defend the bastion whenever it is under attack and uphold the law for visitors in the bastion. The warforcers will stand by as statues when there is no Threat detected. 

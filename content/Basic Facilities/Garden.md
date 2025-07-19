@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.951+02:00","modified":"2025-07-18T17:54:16.110+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.489+02:00","modified":"2025-07-18T17:54:16.110+02:00","cssclasses":""}
 ---
 
 A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table. While in your Bastion, you can instruct the facility’s hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.699+02:00","modified":"2025-07-18T17:52:43.377+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:42:37.500+02:00","modified":"2025-07-18T17:52:43.377+02:00","cssclasses":""}
 ---
 
 This room houses a collection of mementos, such as weapons from old battles, the mounted heads of slain creatures, trinkets plucked from dungeons and ruins, and trophies passed down from ancestors.

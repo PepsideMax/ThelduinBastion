@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.607+02:00","modified":"2025-07-18T17:52:18.444+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:36:57.230+02:00","modified":"2025-07-18T17:52:18.444+02:00","cssclasses":""}
 ---
 
 A Laboratory contains storage space for alchemical supplies and workspaces for crafting various concoctions.

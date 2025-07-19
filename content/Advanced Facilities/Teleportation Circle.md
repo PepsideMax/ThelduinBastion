@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.709+02:00","modified":"2025-07-18T17:52:34.779+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:42:49.408+02:00","modified":"2025-07-18T17:52:34.779+02:00","cssclasses":""}
 ---
 
 Inscribed on the floor of this room is a permanent teleportation circle created by the Teleportation Circle spell.

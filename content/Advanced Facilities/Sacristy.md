@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.617+02:00","modified":"2025-07-18T17:52:26.476+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:38:57.632+02:00","modified":"2025-07-18T17:52:26.476+02:00","cssclasses":""}
 ---
 
 A Sacristy serves as a preparation and storage room for the sacred items and religious vestments.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.939+02:00","modified":"2025-07-19T12:26:02.440+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.843+02:00","modified":"2025-07-19T12:26:02.440+02:00","cssclasses":""}
 ---
 
 A Storehouse is a cool, dark space meant to contain objects from the Trade Goods table in chapter 7 and from chapter 6 of the Player’s Handbook.

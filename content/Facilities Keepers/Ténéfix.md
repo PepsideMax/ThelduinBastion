@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.087+02:00","modified":"2025-07-18T17:55:49.967+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:15.468+02:00","modified":"2025-07-18T17:55:49.967+02:00","cssclasses":""}
 ---
 
 A 2 feet tall [[3Mechanics/Bestiary/Gemgoblin]] driven by his passion for finding the one stone a gem meant to outshine them all. The years of relentless searching between magic stones has corrupted him to the point of turning his skin from green to purple and his eyes have slowly adjusted for the shine and shimmer in the mineral caves leaving a almost diamond surface on them.

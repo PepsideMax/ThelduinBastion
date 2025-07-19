@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.472+02:00","modified":"2025-07-18T17:53:22.538+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:11:39.581+02:00","modified":"2025-07-18T17:53:22.538+02:00","cssclasses":""}
 ---
 
 Devilish tinkerers and dabblers, gremlins can be round

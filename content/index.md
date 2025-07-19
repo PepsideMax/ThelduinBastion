@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome to The Thelduin Bastion Wiki","created":"2025-07-18T18:56:32.752+02:00","modified":"2025-07-18T17:57:00.961+02:00","cssclasses":""}
+{"publish":true,"title":"Welcome to The Thelduin Bastion Wiki","created":"2025-06-13T16:41:44.255+02:00","modified":"2025-07-18T17:57:00.961+02:00","cssclasses":""}
 ---
 
 This is a wiki made by Pepsidemax and his dm for private use only.

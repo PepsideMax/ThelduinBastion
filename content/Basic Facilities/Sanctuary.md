@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.961+02:00","modified":"2025-07-18T17:54:24.348+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.808+02:00","modified":"2025-07-18T17:54:24.348+02:00","cssclasses":""}
 ---
 
 Icons of your religion are displayed in this facility, which includes a quiet place for worship.

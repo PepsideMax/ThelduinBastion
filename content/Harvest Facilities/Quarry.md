@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.442+02:00","modified":"2025-07-18T17:56:40.522+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:15.909+02:00","modified":"2025-07-18T17:56:40.522+02:00","cssclasses":""}
 ---
 
 The quarry is located on the rocky island to the south west. It has pickaxes and cranes to extract stones from the island. It also has storage for 100 stone blocks.

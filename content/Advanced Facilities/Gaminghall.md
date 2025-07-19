@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.585+02:00","modified":"2025-07-18T17:52:14.822+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:19:33.251+02:00","modified":"2025-07-18T17:52:14.822+02:00","cssclasses":""}
 ---
 
 A Gaming Hall also known als [[3Mechanics/wordlbuilding/The Doghouse]] offers recreational activities like chess and games of darts, cards, or dice.

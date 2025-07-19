@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:32.764+02:00","modified":"2025-07-18T17:56:53.238+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-27T10:00:09.624+02:00","modified":"2025-07-18T17:56:53.238+02:00","cssclasses":""}
 ---
 
 ## Intro

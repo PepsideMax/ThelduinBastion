@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.494+02:00","modified":"2025-07-18T17:56:24.807+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:15.222+02:00","modified":"2025-07-18T17:56:24.807+02:00","cssclasses":""}
 ---
 
 The fishing hut is located near the lake. It has all the necessary tools for fishing.

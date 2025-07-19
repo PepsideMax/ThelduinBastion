@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.983+02:00","modified":"2025-07-18T17:54:19.217+02:00","cssclasses":""}
+{"publish":true,"created":"2025-07-04T11:13:33.233+02:00","modified":"2025-07-18T17:54:19.217+02:00","cssclasses":""}
 ---
 
 An Armory contains mannequins for displaying armor, hooks for holding Shields, racks for storing weapons, and chests for holding ammunition.

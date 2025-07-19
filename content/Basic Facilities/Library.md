@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.929+02:00","modified":"2025-07-18T17:54:21.902+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.457+02:00","modified":"2025-07-18T17:54:21.902+02:00","cssclasses":""}
 ---
 
 This Library contains a collection of books plus one or more desks and reading chairs.

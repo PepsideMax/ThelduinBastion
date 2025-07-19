@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.685+02:00","modified":"2025-07-18T17:52:29.311+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:42:16.069+02:00","modified":"2025-07-18T17:52:29.311+02:00","cssclasses":""}
 ---
 
 A Scriptorium contains desks and writing supplies.

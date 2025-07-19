@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:34.597+02:00","modified":"2025-07-18T17:52:05.167+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-24T19:23:43.150+02:00","modified":"2025-07-18T17:52:05.167+02:00","cssclasses":""}
 ---
 
 A Greenhouse is an enclosure where rare plants and fungi are nurtured in a controlled climate.

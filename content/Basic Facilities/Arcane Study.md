@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T18:56:33.971+02:00","modified":"2025-07-18T17:54:09.418+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:05:11.594+02:00","modified":"2025-07-18T17:54:09.418+02:00","cssclasses":""}
 ---
 
 An Arcane Study is a place of quiet research that houses [[Facilities Keepers/Skōlēx]] and contains one or more desks and bookshelves.
