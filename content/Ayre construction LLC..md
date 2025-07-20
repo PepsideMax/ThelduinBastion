@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-06-27T10:00:09.624+02:00","modified":"2025-07-18T17:56:53.238+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-27T10:00:09.624+02:00","modified":"2025-07-20T23:54:11.094+02:00","cssclasses":""}
 ---
 
 ## Intro
@@ -43,5 +43,21 @@ Special facilities can be constructed with gold and crafting materials. There is
 | [[Advanced Facilities/Theater]]              | 1000      | 30 Wood, A chest full of clothes, 5 different kinds of theater props              | 2 Bastion turns |
 | [[Advanced Facilities/Training Area]]        | 300       | 10 Wood, 10 stone, 10 metal                                                       | 1 day           |
 | [[Advanced Facilities/Trophy Room]]          | 500       | 20 stone, 15 different trophies taken from memorable victories                    | 2 Bastion turns |
+
+| Complex faciliteis     | Gold (gp) | Resources                                                            | Time in Bastion turn(s) |
+| ---------------------- | --------- | -------------------------------------------------------------------- | ----------------------- |
+| [[Complex Facilities/Archive]]            | 1800      | 50 Wood, 3 of each: Rare books, rare scrolls and rare maps           | 3                       |
+| [[Complex Facilities/Meditation chamber]] | 1000      | a handfull of seeds, smooth & silky stones, a small fountain         | 4                       |
+| [[Complex Facilities/Menagerie]]          | 1200      | 30 Stone, 10 metal, a book/knowledge on keeping rare creatures       | 2                       |
+| [[Complex Facilities/Observatory]]        | 1700      | 30 Stone, 15 metal, a set of precise Lenses                          | 3                       |
+| [[Complex Facilities/Pub]]                | 1200      | 50 Wood, a special beer recipe, a fancy sounding name                | 2                       |
+| [[Complex Facilities/Reliquary]]          | 2000      | 35 Stone, a roll of fancy cloth, 10 relics taken from special places | 3                       |
+
+| Sophisticated faciliteis | Gold (gp) | Resources                                                               | Time            |
+| ------------------------ | --------- | ----------------------------------------------------------------------- | --------------- |
+| [[Sophisticated Facilities/Demiplane]]            | 0         | A gem worth 1500 gp, 1 bar of legendary metal, a 7th level spell scroll | 1 day           |
+| [[Sophisticated Facilities/Guildhall WIP]]        | 5000      | 80 Wood, a reputation with possible guildmembers, a marketing campaing  | 3 Bastion turns |
+| [[Sophisticated Facilities/Sanctum]]              | 5000      | 60 Stone, Hostpital equipment                                           | 4 Bastion turns |
+| [[Sophisticated Facilities/War Room WIP]]         | 5000      | 50 Stone, 20 metal bars, detailed maps for every region in Thelduïn     | 2 Bastion turns |
 
 
