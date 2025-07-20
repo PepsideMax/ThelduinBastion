@@ -1,10 +1,9 @@
 ---
-{"publish":true,"created":"2025-06-13T17:11:39.572+02:00","modified":"2025-07-18T17:53:26.101+02:00","cssclasses":""}
+{"publish":true,"created":"2025-06-13T17:11:39.572+02:00","modified":"2025-07-19T16:54:59.554+02:00","cssclasses":""}
 ---
 
+![[3Mechanics/Bestiary/img/Knowledge-Consumers.webp|381x377]]
 
-
-![[public/3-Mechanics/Bestiary/img/Knowledge-Consumers.webp\|381x377]]
 ```statblock
 layout: Basic 5e Layout
 image: 3-Mechanics/Bestiary/img/Knowledge-Consumers.webp
