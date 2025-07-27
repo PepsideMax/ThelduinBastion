@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Riding Horse","created":"2025-07-19T18:54:22.378+02:00","modified":"2025-07-19T20:25:05.760+02:00","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Riding Horse","created":"2025-07-19T18:54:22.378+02:00","modified":"2025-07-27T19:25:24.668+02:00","cssclasses":"json5e-monster"}
 ---
 
 # Riding Horse
@@ -7,7 +7,7 @@
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the Panther stat block can also represent a mountain lion, while the Giant Goat stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Riding Horse (XMM)"

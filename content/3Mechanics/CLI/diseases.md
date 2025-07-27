@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Diseases","created":"2025-06-13T17:11:40.564+02:00","modified":"2025-07-21T00:32:18.642+02:00","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"cssclasses":"json5e-note"}
+{"publish":true,"aliases":"Diseases","created":"2025-06-13T17:11:40.564+02:00","modified":"2025-07-27T19:00:47.238+02:00","cssclasses":"json5e-note"}
 ---
 
 # Diseases

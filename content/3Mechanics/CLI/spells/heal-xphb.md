@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Heal","created":"2025-07-19T21:03:31.848+02:00","modified":"2025-07-21T00:34:00.641+02:00","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/level/6th-level","ttrpg-cli/spell/school/abjuration"],"cssclasses":"json5e-spell"}
+{"publish":true,"aliases":"Heal","created":"2025-07-19T21:03:31.848+02:00","modified":"2025-07-27T18:12:52.743+02:00","cssclasses":"json5e-spell"}
 ---
 
 # Heal
@@ -15,6 +15,6 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: Druid; Cleric; Bard
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

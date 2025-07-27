@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Conditions","created":"2025-06-13T17:11:40.331+02:00","modified":"2025-07-21T00:32:14.565+02:00","tags":["ttrpg-cli/compendium/src/5e/xphb"],"cssclasses":"json5e-note"}
+{"publish":true,"aliases":"Conditions","created":"2025-06-13T17:11:40.331+02:00","modified":"2025-07-27T19:00:42.450+02:00","cssclasses":"json5e-note"}
 ---
 
 # Conditions

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Word of Recall","created":"2025-07-19T21:03:06.356+02:00","modified":"2025-07-19T21:04:49.410+02:00","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/level/6th-level","ttrpg-cli/spell/school/conjuration"],"cssclasses":"json5e-spell"}
+{"publish":true,"aliases":"Word of Recall","created":"2025-07-19T21:03:06.356+02:00","modified":"2025-07-27T18:43:49.164+02:00","cssclasses":"json5e-spell"}
 ---
 
 # Word of Recall
@@ -15,6 +15,6 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes**: [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: Cleric; Bard
 
 *Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

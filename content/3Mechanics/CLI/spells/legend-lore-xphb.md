@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Legend Lore","created":"2025-07-20T22:58:50.147+02:00","modified":"2025-07-20T22:59:50.863+02:00","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/5th-level","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/diviner","ttrpg-cli/spell/subclass/draconic-sorcery","ttrpg-cli/spell/subclass/oath-of-glory"],"cssclasses":"json5e-spell"}
+{"publish":true,"aliases":"Legend Lore","created":"2025-07-20T22:58:50.147+02:00","modified":"2025-07-27T18:12:07.312+02:00","cssclasses":"json5e-spell"}
 ---
 
 # Legend Lore
@@ -17,6 +17,6 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: Cleric; Wizard (Diviner)); Bard; Paladin (Oath of Glory); Wizard; Sorcerer (Draconic Sorcery)
 
 *Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

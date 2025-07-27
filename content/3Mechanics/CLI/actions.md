@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Actions","created":"2025-06-13T17:11:40.224+02:00","modified":"2025-07-21T00:32:08.766+02:00","tags":["ttrpg-cli/compendium/src/5e/xphb"],"cssclasses":"json5e-note"}
+{"publish":true,"aliases":"Actions","created":"2025-06-13T17:11:40.224+02:00","modified":"2025-07-27T19:23:00.929+02:00","cssclasses":"json5e-note"}
 ---
 
 # Actions
@@ -9,7 +9,7 @@ _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-When you take the Attack action, you can make one attack roll with a weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
+When you take the Attack action, you can make one attack roll with a weapon or an Unarmed Strike.
 
 ### Equipping and Unequipping Weapons
 
@@ -26,9 +26,9 @@ _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) after applying any modifiers. With a [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.
+When you take the Dash action, you gain extra movement for the current turn. The increase equals your Speed after applying any modifiers. With a Speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your Speed of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.
 
-If you have a special speed, such as a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) or [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md), you can use that speed instead of your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) when you take this action. You choose which speed to use each time you take it.
+If you have a special speed, such as a Fly Speed or Swim Speed, you can use that speed instead of your Speed when you take this action. You choose which speed to use each time you take it.
 
 ## Disengage
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -42,16 +42,16 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) if you can see the attacker, and you make Dexterity [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
+lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has Disadvantage if you can see the attacker, and you make Dexterity saving throws with Advantage.
 
-You lose these benefits if you have the [[3Mechanics/CLI/conditions#Incapacitated\|Incapacitated]] condition or if your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
+You lose these benefits if you have the [[3Mechanics/CLI/conditions#Incapacitated\|Incapacitated]] condition or if your Speed is 0.
 
 ## Don or Doff a Shield
 _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
-A [Shield](/3-Mechanics/CLI/items/shield-xphb.md) can be donned or doffed as an action.
+A Shield can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -65,7 +65,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A Grappled creature can use its action to make a Strength ([[3Mechanics/CLI/skills#Athletics\|Athletics]]) or Dexterity ([[3Mechanics/CLI/skills#Acrobatics\|Acrobatics]]) check against the grapple's escape DC, ending the [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [[3Mechanics/CLI/conditions#Incapacitated\|Incapacitated]] condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+A Grappled creature can use its action to make a Strength ([[3Mechanics/CLI/skills#Athletics\|Athletics]]) or Dexterity ([[3Mechanics/CLI/skills#Acrobatics\|Acrobatics]]) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the [[3Mechanics/CLI/conditions#Incapacitated\|Incapacitated]] condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Help
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -76,18 +76,18 @@ When you take the Help action, you do one of the following.
 
 ### Assist an Ability Check
 
-Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
+Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has Advantage on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
 
 ### Assist an Attack Roll
 
-You momentarily distract an enemy within 5 feet of you, giving [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ## Hide
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[3Mechanics/CLI/skills#Stealth\|Stealth]]) check while you're [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) or behind [Three-Quarters Cover or Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[3Mechanics/CLI/skills#Stealth\|Stealth]]) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
 On a successful check, you have the [[3Mechanics/CLI/conditions#Invisible\|Invisible]] condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([[3Mechanics/CLI/skills#Perception\|Perception]]) check.
 
@@ -98,7 +98,7 @@ _Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
 
 - **Duration**: Varies
 
-Player characters and monsters can also do things not covered by other actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) you need to make, if any.
+Player characters and monsters can also do things not covered by other actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of D20 Test you need to make, if any.
 
 ## Influence
 _Source: Player's Handbook (2024) p. 369_
@@ -144,20 +144,20 @@ _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems 
 
 - **Duration**: 1 reaction
 
-You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), its [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md), or one of its speeds. To make the Opportunity Attack, take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to make one melee attack with a weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) against the provoking creature. The attack occurs right before the creature leaves your reach.
+You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its Bonus Action, its Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against the provoking creature. The attack occurs right before the creature leaves your reach.
 
 ## Ready
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) before the start of your next turn.
+You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a Reaction before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md). Then, you choose the action you will take in response to that trigger, or you choose to move up to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
-When the trigger occurs, you can either take your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) right after the trigger finishes or ignore the trigger.
+When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[3Mechanics/CLI/conditions#Concentration\|Concentration]], which you can maintain up to the start of your next turn. If your [[3Mechanics/CLI/conditions#Concentration\|Concentration]] is broken, the spell dissipates without taking effect.
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[3Mechanics/CLI/conditions#Concentration\|Concentration]], which you can maintain up to the start of your next turn. If your [[3Mechanics/CLI/conditions#Concentration\|Concentration]] is broken, the spell dissipates without taking effect.
 
 ## Search
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -189,11 +189,11 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 | Skill | Areas |
 |-------|-------|
-| [Arcana](/3-Mechanics/CLI/skills.md#Arcana) | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
-| [History](/3-Mechanics/CLI/skills.md#History) | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
-| [Investigation](/3-Mechanics/CLI/skills.md#Investigation) | Traps, ciphers, riddles, and gadgetry |
-| [Nature](/3-Mechanics/CLI/skills.md#Nature) | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
-| [Religion](/3-Mechanics/CLI/skills.md#Religion) | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+| [Arcana](/3Mechanics/CLI/skills.md#Arcana) | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
+| [History](/3Mechanics/CLI/skills.md#History) | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
+| [Investigation](/3Mechanics/CLI/skills.md#Investigation) | Traps, ciphers, riddles, and gadgetry |
+| [Nature](/3Mechanics/CLI/skills.md#Nature) | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
+| [Religion](/3Mechanics/CLI/skills.md#Religion) | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
 ^areas-of-knowledge
 
 ## Two-Weapon Fighting
@@ -201,13 +201,13 @@ _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems 
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [Shortsword](/3-Mechanics/CLI/items/shortsword-xphb.md) in one hand and a [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md) in the other using the [Attack](/3-Mechanics/CLI/actions.md#Attack) action and a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), but you don't add your Strength or Dexterity modifier to the damage roll of the [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) unless that modifier is negative.
+When you take the [Attack](/3Mechanics/CLI/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the [Attack](/3Mechanics/CLI/actions.md#Attack) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
-See also: [Attack](/3-Mechanics/CLI/actions.md#Attack)
+See also: [Attack](/3Mechanics/CLI/actions.md#Attack)
 
 ## Utilize
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.
+You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](/3Mechanics/CLI/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.

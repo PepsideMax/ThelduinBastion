@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"Warrior Veteran","created":"2025-07-19T20:29:27.789+02:00","modified":"2025-07-19T20:36:43.676+02:00","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/any","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/humanoid"],"cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Warrior Veteran","created":"2025-07-19T20:29:27.789+02:00","modified":"2025-07-27T19:29:13.577+02:00","cssclasses":"json5e-monster"}
 ---
 
-# [Warrior Veteran](3-Mechanics\CLI\bestiary\humanoid/warrior-veteran-xmm.md)
+# [[3Mechanics/Bestiary/Veteran Warrior]]
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
@@ -59,9 +59,9 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/3Mechanics/CLI/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/3Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
