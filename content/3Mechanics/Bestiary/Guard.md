@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Guard","created":"2025-07-19T20:20:50.769+02:00","modified":"2025-07-19T20:24:58.092+02:00","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-8","ttrpg-cli/monster/environment/any","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/humanoid"],"cssclasses":"json5e-monster"}
+{"publish":true,"aliases":"Guard","created":"2025-07-19T20:20:50.769+02:00","modified":"2025-07-27T20:52:44.732+02:00","cssclasses":"json5e-monster"}
 ---
 
 # [Guard](3-Mechanics\CLI\bestiary\humanoid/guard-xmm.md)
