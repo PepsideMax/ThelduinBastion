@@ -1,8 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-19T17:02:05.389+02:00","modified":"2025-07-19T17:19:10.586+02:00","cssclasses":""}
+{"publish":true,"created":"2025-07-19T17:02:05.389+02:00","modified":"2025-07-27T21:19:04.234+02:00","cssclasses":""}
 ---
 
 Folks come here to consume tasty beverages and socialize. Your Pub might be a bar, coffee shop, or tearoom, and it might have a colorful name, such as the Rusty Flagon or the Dragon’s Loft. [[Facilities Keepers/Morris Szyslak]] maintains a network of spies scattered throughout Thelduïn. These spies are useful sources of information and frequent the Pub, often incognito.
+
+![[pub.avif|451x359]]
 
 **Research: Information Gathering** When you issue the Research order to this facility, you commission [[Facilities Keepers/Morris Szyslak]] to gather information from spies who are aware of important events happening within 10 miles a chosen location in Thelduïn over the next 7 days. During that time, these spies can divulge the location of any creature that is familiar to you, provided the creature is within 50 miles of the location and not hidden by magic or confined to a location that the DM deems is beyond the spy network’s ability to locate. If
 the spies learn the target’s location, they also learn where that creature has been for the previous 7 days.
