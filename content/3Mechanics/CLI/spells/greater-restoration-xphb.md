@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Greater Restoration","created":"2025-07-21T00:15:59.184+02:00","modified":"2025-07-27T18:42:23.463+02:00","cssclasses":"json5e-spell"}
+{"publish":true,"aliases":"Greater Restoration","created":"2025-07-21T00:15:59.184+02:00","modified":"2025-07-27T20:39:29.180+02:00","cssclasses":"json5e-spell"}
 ---
 
 # Greater Restoration
