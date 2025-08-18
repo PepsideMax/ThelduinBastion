@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-19T15:50:56.236+02:00","modified":"2025-08-17T13:51:21.488+02:00","cssclasses":""}
+{"publish":true,"created":"2025-07-19T15:50:56.236+02:00","modified":"2025-08-17T20:09:43.839+02:00","cssclasses":""}
 ---
 
 A Menagerie has enclosures big enough to contain up to four Large creatures. Four Small or Medium creatures can occupy the same space as one Large creature there.
@@ -7,6 +7,7 @@ A Menagerie has enclosures big enough to contain up to four Large creatures. Fou
 **Recruit: Creature** When you issue the Recruit order to this facility, you commission [[Facilities Keepers/Paul Blart]] to add a creature from the Menagerie Creatures table to your Menagerie. The recruitment takes 7 days and costs you the amount listed in the table. [[Facilities Keepers/Paul Blart]] looks after the creature.
 Creatures in your Menagerie help you defend the bastion. Deduct any you lose from your Bastion Defenders roster. You can choose not to count one or more of these creatures as Bastion Defenders, in which case they can’t be called on to defend the Bastion. Instead, they act in accordance with their nature and use their stat blocks in the Monster Manual.
 
+![[Images/Paul Blart.webp|286x430]]
 ## Menagerie Creatures
 
 | Creature          | Size | Cost (GP) |
