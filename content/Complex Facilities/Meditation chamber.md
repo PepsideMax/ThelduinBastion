@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-19T15:37:42.950+02:00","modified":"2025-08-18T12:10:08.434+02:00","cssclasses":""}
+{"publish":true,"created":"2025-07-19T15:37:42.950+02:00","modified":"2025-08-18T12:24:55.603+02:00","cssclasses":""}
 ---
 
 A Meditation Chamber is a relaxing space that helps align one’s mind, body, and spirit.
@@ -15,4 +15,5 @@ on the table below. Gain a second one if this facility is empowered. Reroll if y
 | 4   | Inteligence   |
 | 5   | Wisdom        |
 | 6   | Charisma      |
+
 ![[Images/pep yoga.webp|508x762]]
